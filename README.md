@@ -1,35 +1,33 @@
-### Hi there 👋
-### Welcome my Github👑
-
 <picture>
-    <img alt="emoji" src="http://pic.yupoo.com/ririsukokoromu/42832627/2f0ffe00.gif" style="width: 20px">
-    <span style="line-height: 30px">If you also play reverse:1999 then we are good friends</span>
-    <img alt="emoji" src="http://pic.yupoo.com/ririsukokoromu/b8308b9e/d2496fd6.gif" style="width: 20px">
+ <img alt="chipi" src="https://raw.githubusercontent.com/sooooooooooooooooootheby/sooooooooooooooooootheby/main/JessicaChipi.gif">
 </picture>
 
-<picture>
-    <img alt="emoji" src="http://pic.yupoo.com/ririsukokoromu/338b83ac/9d4828fa.png" style="width: 20px">
-    <span>Let me introduce you. The cute girl on the left is my favorite character. It's called sotheby's, and it's where my username comes from.</span>
-</picture>
+### Hi my friend 👋 Welcome my Github 🎉
 
-apple starts with a,
-<br/>
-banana starts with b,
-<br/>
-i thought happiness starts with h,
-<br/>
-but apparently mine starts with sotheby，
-<br/>
-If sotheby has 5 million fans I am one of them. 👉👈
-<br/>
-If sotheby has ten fans I am one of them. 🗣🎶
-<br/>
-If sotheby has only one fan, then that is me. 🙏🏼🙏🏼
-<br/>
-If sotheby has no fans, that means I am no more on the Earth. ⛪️
-<br/>
-If the world is against sotheby,
-<br/>
-I am against the world ✍️
-<br/>
-(It's just a joke, please don't take it seriously)
+I am 245 years old and a student from Silvershimmer, if you don't know Silvershimmer, fine! Because it is in luna🌕 and is the capital🏰 of luna, it is normal for Earthlings not to understand.
+<br />
+Because I am not from the earth, nor english people, so my English is not very good, please forgive me. But I'm good at Chinese, because Chinese is our official language 🗣.
+---
+### what're you doing lately? 📁
+
+Recently, I am writing a social networking site modeled after X ✍️. Although this is only a small project 📦, it has also taken me a lot of time 🕐, using a lot of technology stacks of vue and node.js 🪛.
+
+### learning objectives 📓
+
+☑️ html&css&javascript
+
+☑️ node.js
+
+☑️ vue.js
+
+☑️ sass
+
+🔲 PHP
+
+🔲 WeChat Mini Program
+
+### my website 💻
+
+👑 [Blog](https://blog.sooooooooooooooooootheby.xyz/)
+
+🗂 [SourceGather](https://tool.sooooooooooooooooootheby.xyz/)
