@@ -3,9 +3,9 @@
 <picture>
  <img alt="chipi" src="https://raw.githubusercontent.com/sooooooooooooooooootheby/sooooooooooooooooootheby/main/JessicaChipi.gif">
 </picture>
----
 
-😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺
+
+😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺
 
 ### what're you doing lately? 📁
 
