@@ -1,4 +1,5 @@
-### Hi my friend 👋 Welcome my Github 🎉
+### Hi my friend 👋 
+### Welcome my Github 🎉
 
 <picture>
  <img alt="chipi" src="https://raw.githubusercontent.com/sooooooooooooooooootheby/sooooooooooooooooootheby/main/JessicaChipi.gif">
@@ -30,3 +31,5 @@ Recently, I am writing a social networking site modeled after X ✍️. Although
 👑 [Blog](https://blog.sooooooooooooooooootheby.xyz/)
 
 🗂 [SourceGather](https://tool.sooooooooooooooooootheby.xyz/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooooooooooooooooootheby&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
