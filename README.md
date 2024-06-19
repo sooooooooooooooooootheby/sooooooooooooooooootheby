@@ -8,7 +8,7 @@
 
 😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺
 
-### what're you doing lately? 📁
+### what're me doing lately? 📁
 
 Recently, I am writing a social networking site modeled after X ✍️. Although this is only a small project 📦, it has also taken me a lot of time 🕐, using a lot of technology stacks of vue and node.js 🪛.
 
@@ -24,7 +24,7 @@ Recently, I am writing a social networking site modeled after X ✍️. Although
 
 🔲 PHP
 
-🔲 WeChat Mini Program
+🔲 Typescript
 
 ### my website 💻
 
