@@ -1,8 +1,6 @@
 # Hi my friend 👋 
 
-<picture>
- <img alt="chipi" src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/cover.webp" style="width: 100%">
-</picture>
+![cover](https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/cover.webp)
 
 ### Welcome my Github 🎉
 
