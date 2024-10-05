@@ -1,15 +1,16 @@
 # Hi my friend 👋 
-### Welcome my Github 🎉
 
 <picture>
- <img alt="chipi" src="https://raw.githubusercontent.com/sooooooooooooooooootheby/sooooooooooooooooootheby/main/JessicaChipi.gif">
+ <img alt="chipi" src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/cover.webp" style="width: 100%">
 </picture>
 
-### language 📓
+### Welcome my Github 🎉
+
+### Language 📓
 
 <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/html-5-svgrepo-com.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/css3-svgrepo-com.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/javascript-svgrepo-com.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/node-js-svgrepo-com.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/vue-svgrepo-com.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/sass-svgrepo-com.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/kotlin-svgrepo-com.svg" width="40" height="40"/>
 
-### my website 💻
+### My website 💻
 
 👑 [Blog](https://blog.sooooooooooooooooootheby.top/)
 
