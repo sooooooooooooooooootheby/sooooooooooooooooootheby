@@ -1,6 +1,8 @@
 # Hi my friend 👋 
 
-![cover](https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/cover.webp)
+<a href="https://cover.xiowo.net/" target="_block">
+    <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/Canvas-Ruom.webp" alt="cover" >
+</a>
 
 ### Welcome my Github 🎉
 
