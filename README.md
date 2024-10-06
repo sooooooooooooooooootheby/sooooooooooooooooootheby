@@ -1,6 +1,6 @@
 # Hi my friend 👋 
 
-<a href="https://cover.xiowo.net/" target="_block">
+<a href="https://blog.sooooooooooooooooootheby.top/" target="_block">
     <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/Canvas-Ruom.webp" alt="cover" >
 </a>
 
