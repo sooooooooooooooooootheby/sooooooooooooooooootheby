@@ -6,7 +6,7 @@
 
 ### Welcome my Github 🎉
 
-### Language 📓
+### Skill 🛟
 
 <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/file_type_vscode_icon_130084.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/html_icon_130541.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/file_type_css_icon_130661.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/file_type_js_official_icon_130509.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/file_type_vue_icon_130078.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/file_type_sass_icon_130182.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/file_type_node_icon_130301.svg" width="40" height="40"/><img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/file_type_mysql_icon_130379.svg" width="40" height="40"/>  <img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/file_type_kotlin_icon_130487.svg" width="40" height="40"/>
 
