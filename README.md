@@ -1,4 +1,4 @@
-<img align='left' src='https://cdn.jsdelivr.net/gh/sooooooooooooooooootheby/sooooooooooooooooootheby/sotheby.webp' width='410px'>
+<img align='left' src='https://random-role.vercel.app/' width='410px'>
 
 ### Hi, my friend 👋
 
