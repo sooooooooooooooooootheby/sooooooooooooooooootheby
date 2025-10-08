@@ -2,7 +2,7 @@
 
 ### Hi, my friend 👋
 
-Welcome to my github, The one on the left is Miss sotheby, I like she very much.
+Welcome to my github, The one on the left is Miss sotheby or Miss Marcus, I like she very much.
 
 I'm a front-end developer, good at `vue.js` & `nuxt.js`.
 
