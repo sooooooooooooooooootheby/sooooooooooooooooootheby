@@ -1,4 +1,4 @@
-<img align='left' src='https://github.com/sooooooooooooooooootheby/randomRole/blob/main/role/1.webp' width='410px'>
+<img align='left' src='https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/Sotheby.webp?raw=true' width='410px'>
 
 ### hhhi, my friend ฅ^•ﻌ•^ฅ
 
@@ -6,7 +6,7 @@ Welcome to my github, The one on the left is Miss sotheby, I like she very much.
 
 I'm a front-end developer, good at `vue.js` & `nuxt.js`.
 
-If you want to know about me, you can visit my website.
+If you want to know about me, you can visit my [website](https://s22y.moe).
 
 ### My skills
 
