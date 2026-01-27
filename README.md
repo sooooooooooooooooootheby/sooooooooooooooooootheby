@@ -1,6 +1,6 @@
-<img align='left' src='https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/Sotheby.webp?raw=true' width='410px'>
+<img align='left' src='https://github.com/meorionel/meorionel/blob/main/Sotheby.webp?raw=true' width='410px'>
 
-## hhhi, my friend ฅ^•ﻌ•^ฅ
+### hhhi, my friend ฅ^•ﻌ•^ฅ
 
 Welcome to my github, The one on the left is Miss sotheby, I like she very much.
 
@@ -8,22 +8,8 @@ I'm a front-end developer, good at `vue.js` & `nuxt.js`.
 
 If you want to know about me, you can visit my [website](https://s22y.moe).
 
-## My skills
+### My skills
 
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsJavascript.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsTypescript.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsVuejsLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsNuxtjsLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsPiniaLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsSass.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsTailwindcssLight.png" width="32" height="32"/>
+<img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsJavascript.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsTypescript.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsVuejsLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsNuxtjsLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsPiniaLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsSass.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsTailwindcssLight.png" width="32" height="32"/>
 
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsNodejsLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsBunLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsExpressjsLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsElysiaLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsPythonLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsJavaLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsSpringLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsMysqlLight.png" width="32" height="32"/>
-<img src="https://github.com/sooooooooooooooooootheby/sooooooooooooooooootheby/blob/main/icon/SkillIconsRust.pngg" width="32" height="32"/>
+<img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsNodejsLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsBunLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsExpressjsLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsElysiaLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsPythonLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsJavaLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsSpringLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsMysqlLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsRust.pngg" width="32" height="32"/>
