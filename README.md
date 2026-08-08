@@ -2,13 +2,7 @@
 
 ### hhhi, my friend ฅ^•ﻌ•^ฅ
 
-Welcome to my github, The one on the left is Miss sotheby, I like she very much.
-
-I'm a front-end developer, good at `vue.js` & `nuxt.js`.
-
-If you want to know about me, you can visit my [website](https://s22y.moe).
-
-### My skills
+Welcome to my github.
 
 <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsJavascript.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsTypescript.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsVuejsLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsNuxtjsLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsPiniaLight.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsSass.png" width="32" height="32"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/SkillIconsTailwindcssLight.png" width="32" height="32"/>
 
