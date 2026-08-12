@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/meorionel/meorionel/blob/main/head_cover_signature.webp?raw=true">
+<img align="center" src="https://github.com/meorionel/meorionel/blob/main/cover0.webp?raw=true">
 
 ## My Skills
 
