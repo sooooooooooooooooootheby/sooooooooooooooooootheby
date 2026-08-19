@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/meorionel/meorionel/blob/main/cover0.webp?raw=true">
 
-## My Skills
+## 我的技术栈
 
 <img src="https://github.com/meorionel/meorionel/blob/main/icon/javascript.png" width="48" height="48" hspace="12"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/typescript.png" width="48" height="48" hspace="12"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/vuejs.png" width="48" height="48" hspace="12"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/react.png" width="48" height="48" hspace="12"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/nuxtjs.png" width="48" height="48" hspace="12"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/nextjs.png" width="48" height="48" hspace="12"/> <img src="https://github.com/meorionel/meorionel/blob/main/icon/tailwindcss.png" width="48" height="48" hspace="12"/>
 
