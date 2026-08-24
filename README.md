@@ -25,3 +25,4 @@
 - [breweryx recipes generator](https://github.com/meorionel/breweryx-recipes-generator): 一个 BrewwryX 的配方生成器
 - [file delivery locker worker](https://github.com/meorionel/file-delivery-locker-worker): 一个基于 Cloudflare Workers、R2 和 D1 的文件快递柜.
 - [raspberry editor](https://github.com/meorionel/raspberry-editor): 一个基于 Cloudflare Workers 的轻量级在线代码编辑器.
+- [gp http counter](https://github.com/meorionel/go-http-counter): 一个基于 Go + Gin + GORM + SQLite 的高性能 HTTP 计数器服务.
